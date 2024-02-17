@@ -1,8 +1,8 @@
 <h2>Output</h2>
 <p>
-    *  <br>
-   * * <br>
-  * * * <br>
- * * * * <br>
+   &nbsp;&nbsp;&nbsp; *  <br>
+  &nbsp;&nbsp; * * <br>
+ &nbsp; * * * <br>
+ &nbsp;* * * * <br>
 * * * * * <br>
 </p>
